@@ -33,6 +33,7 @@ Table 2. Fooo
 Picture 1 -- Bar
 
 > aA**A**Aa
+> 
 > bB**B**Bb
 
 ```
@@ -40,4 +41,11 @@ x*x + y*y = r*r
 2*x + 4*y + 1 = 0
 ```
 
-**bold** *italic* ***bold italic***
+**bold** *italic* ***bold-italic***
+
+Spoiler
+
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
