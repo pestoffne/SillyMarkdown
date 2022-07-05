@@ -32,7 +32,12 @@ Table 2. Fooo
 ![alt text](images/fig_01.png "Image title")
 Picture 1 -- Bar
 
-> x*x + y*y = r*r
-> 2*x + 4*y + 1 = 0
+> aA**A**Aa
+> bB**B**Bb
+
+```
+x*x + y*y = r*r
+2*x + 4*y + 1 = 0
+```
 
 **bold** *italic* ***bold italic***
