@@ -4,7 +4,6 @@
 
 Table 1. Foo
 
-| column 1 | column 2 |
 | --- | --- |
 | Греческие буквы | αερτϒηξλωΩβμ |
 | Греческие буквы через маркдаун | $\alpha, \Alpha, \beta, \Beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi$ |
