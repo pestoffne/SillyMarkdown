@@ -8,24 +8,14 @@ Table 1. Foo
 | --- | --- |
 | 1 | 2 |
 | 3 | 4 |
+| 5 | ![alt text](images/fig_01.png "Image title") |
 
 Table 2. Fooo
 
-:::row:::
-   :::column span="2":::
-      **This is a 2-span column with lots of text.**
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum mollis nunc
-      ornare commodo. Nullam ac metus imperdiet, rutrum justo vel, vulputate leo. Donec
-      rutrum non eros eget consectetur.
-   :::column-end:::
-   :::column span="":::
-      **This is a single-span column with an image in it.**
-
-      ![Doc.U.Ment](media/markdown-reference/document.png)
-   :::column-end:::
-:::row-end:::
-
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 ![alt text](images/fig_01.png "Image title")
 Picture 1 -- Bar
