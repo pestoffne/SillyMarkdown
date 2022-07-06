@@ -49,9 +49,10 @@ frac
 
 $r = \frac{2}{1-\frac{L}{R}}-1 = 3$
 
+$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + \frac{1}{a_4} } } }$
+
 cfrac
 
 $r = \cfrac{2}{1-\cfrac{L}{R}}-1 = 3$
-
 
 $x = a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2 + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }$
