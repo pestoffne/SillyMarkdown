@@ -7,7 +7,9 @@ Table 1. Foo
 | column 1 | column 2 |
 | --- | --- |
 | Греческие буквы | αερτϒηξλωΩβμ |
+| Греческие буквы через маркдаун | \alpha, \Alpha, \beta, \Beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi |
 | Formula | $x^2*\sqrt{3}/2$ |
+| Formula | \frac{1}{2} |
 | Picture | ![alt text](images/fig_01.png "Image title") |
 
 Table 2. Fooo
