@@ -6,9 +6,9 @@ Table 1. Foo
 
 | column 1 | column 2 |
 | --- | --- |
-| 1 | 2 |
-| 3 | 4 |
-| 5 | ![alt text](images/fig_01.png "Image title") |
+| Греческие буквы | αερτϒηξλωΩβμ |
+| Formula | $\x^2*sqrt{3}/2$ |
+| Picture | ![alt text](images/fig_01.png "Image title") |
 
 Table 2. Fooo
 
@@ -37,3 +37,8 @@ Spoiler
   <summary>Q1: What is the best Language in the World? </summary>
    A1: JavaScript 
 </details>
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
