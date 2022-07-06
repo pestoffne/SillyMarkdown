@@ -7,7 +7,7 @@ Table 1. Foo
 | column 1 | column 2 |
 | --- | --- |
 | Греческие буквы | αερτϒηξλωΩβμ |
-| Formula | $\x^2*sqrt{3}/2$ |
+| Formula | $x^2*\sqrt{3}/2$ |
 | Picture | ![alt text](images/fig_01.png "Image title") |
 
 Table 2. Fooo
