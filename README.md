@@ -54,8 +54,4 @@ cfrac
 $r = \cfrac{2}{1-\cfrac{L}{R}}-1 = 3$
 
 
-$\begin{equation}
-  x = a_0 + \cfrac{1}{a_1 
-          + \cfrac{1}{a_2 
-          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
-\end{equation}$
+$x = a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2 + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }$
